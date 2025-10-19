@@ -24,7 +24,7 @@
     "@mui/material": "^7.3.1",
     "@mui/system": "^7.3.1",
     "@mui/x-charts": "^8.9.2",
-    "@mui/x-data-grid": "^8.9.2",
+    "@mui/x-data-grid": "^8.12.1",
     "@nivo/bar": "^0.80.0",
     "@nivo/core": "^0.80.0",
     "@nivo/line": "^0.99.0",
