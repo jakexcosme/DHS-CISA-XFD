@@ -11,3 +11,4 @@ python-dotenv
 requests-http-signature==0.2.0
 shodan==1.27.0
 sslyze==5.2.0
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
