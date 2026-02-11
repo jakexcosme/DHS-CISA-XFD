@@ -6,3 +6,4 @@ mypy
 # The bump-version script requires at least version 3 of semver.
 semver>=3
 twine
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
