@@ -1,4 +1,4 @@
-FROM node:20.19.4-alpine
+FROM node:20.20.1-alpine
 USER root
 
 RUN apk update && apk upgrade
